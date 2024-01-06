@@ -13,3 +13,8 @@ Function cal {
 }
   ```
 4. Reload terminal and you can see the calender by typing command `cal`
+
+<hr>
+
+<img width="520" alt="image" src="https://github.com/Priyanshu-1012/pwsh-calender/assets/39450902/b8824fa6-daff-4e33-8022-d7e2ea792332">
+
